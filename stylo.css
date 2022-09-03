@@ -1,0 +1,26 @@
+#principal{
+    border: solid 1px silver;
+    margin: 0 auto;
+    padding: 5px;
+    width: 80%;
+    background-color: silver;
+}
+body{
+    background: url(fondo.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+}
+fieldset{
+    margin-bottom:  10px;
+}
+legend{
+    border: solid 1px whitesmoke;
+    padding: 5px;
+    font-weight: bold;
+
+    background: whitesmoke;
+}
+#mifotoperfil{
+    margin:5px;
+    border: solid 2px silver;
+}
